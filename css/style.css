@@ -1,0 +1,36 @@
+body {
+  background-color: #000000;
+				font-family: Helvetica, Arial, sans-serif;
+				color: #ffffff;
+			  padding: 0 15% 0 15%;
+  text-align:center;
+}
+			h1{
+			  text-align:center;
+        color: #aa80ff;
+        text-shadow: 4px 15px #ffffff;
+font-family:'DancingScriptRegular';
+				font-size:800%;
+}
+         
+
+h1 { 
+   font-family: 'SomeTimeLaterRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+p, h1, h2{
+  text-align:center;
+}
+
+h1{
+  font-size: 1500%;
+}
+h2{
+  font-size:400%;
+}
+p{
+  font-size: 300%;
+}
+
+

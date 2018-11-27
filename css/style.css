@@ -34,3 +34,25 @@ p{
 }
 
 
+			li {
+			  position: static;
+				display: inline;
+				padding: 0.5em;}
+
+			#nav, #footer {
+				background-color: #000000;
+				padding: 0.5em 0;}z
+
+			#feature{
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #4b2e83;}
+a{
+   font-family: 'JelleeRoman'; 
+   font-weight: normal; 
+   font-style: normal; 
+   color: #ffffff;
+   text-shadow: 5px 2px #9696ff;	
+}
+
+

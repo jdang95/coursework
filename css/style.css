@@ -34,20 +34,16 @@ body {
     background-color: #D9ACFC;
     color: white;
 }
-h1{
-	text-align:center;
-        color: #aa80ff;
-        text-shadow: 4px 6px #ffffff;
-font-family:'DancingScriptRegular';
-				
-}
+
          
 
 h1 { 
-   font-family: 'SomeTimeLaterRegular'; 
+    color:white;
+   font-family: 'BigBottomCartoonRegular'; 
    font-weight: normal; 
-   font-style: normal;
+   font-style: normal; 
    font-size: 100px;
+	text-align:center;
 }
 p, h2{
   text-align:center;
